@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "author": "Nivaldo Júnior",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-pi-pico-w", "id": "pico", "top": -22.45, "left": -111.65, "attrs": {} },
+    { "type": "wokwi-servo", "id": "servo1", "top": -2, "left": 0, "attrs": {} }
+  ],
+  "connections": [
+    [ "pico:GP0", "$serialMonitor:RX", "", [] ],
+    [ "pico:GP1", "$serialMonitor:TX", "", [] ],
+    [ "pico:GP22", "servo1:PWM", "green", [ "h29.11", "v-29" ] ],
+    [ "pico:GND.8", "servo1:GND", "black", [ "h29.11", "v38.4" ] ],
+    [ "pico:3V3", "servo1:V+", "green", [ "h19.51", "v28.7" ] ]
+  ],
+  "dependencies": {}
+}
