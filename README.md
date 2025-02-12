@@ -17,4 +17,4 @@ ATENÇÃO!!! Antes de compilar seu código, escolha se utilizará a BitDogLab ou
 
 
 #### Link do vídeo
-Segue o link do Drive com o vídeo onde é demonstrada a utilização do código na BitDogLab e no Wokwi (Vídeos separados): https://drive.google.com/drive/folders/1UV3JShui80DqdDFsQXJZ6sUz1QR3t35u?usp=sharing
+Segue o link do Drive com o vídeo onde é demonstrada a utilização do código na BitDogLab e no Wokwi (Vídeos separados, mas que não excedem o limite de 3 minutos): https://drive.google.com/drive/folders/1UV3JShui80DqdDFsQXJZ6sUz1QR3t35u?usp=sharing
