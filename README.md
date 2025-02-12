@@ -1,4 +1,4 @@
-# Atividade 29-01
+# Atividade 06-02
 Este é o repositório que armazena a tarefa solicitada no dia 06/02. Todos os arquivos necessários à execução já foram criados, de modo que basta seguir as instruções abaixo para executá-lo em seu dispositivo.
 
 
